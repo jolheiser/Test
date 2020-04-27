@@ -1,4 +1,4 @@
-```
+```text
 # firewall-cmd --permanent --zone
 ```
 
