@@ -1,3 +1,7 @@
+```
+# firewall-cmd --permanent --zone
+```
+
 1
 
 2
