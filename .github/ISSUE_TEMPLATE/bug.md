@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: A new bug
+name: "Bug"
+about: "A new bug"
 title: "[BUG] "
 labels: ''
 assignees: ''
