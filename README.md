@@ -1,3 +1,3 @@
-[releases](./releases)
-[releases](releases)
-[releases](../../releases)
+```math
+\sqrt{3}
+```
